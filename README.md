@@ -27,4 +27,4 @@ Thank you for considering contributing to this project! Follow these steps to ge
 - The dataset used for this project can be found on Kaggle: [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia).
 
 Thanks for your interest and contributions!
-```
+
